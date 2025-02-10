@@ -25,7 +25,7 @@ export default function Page() {
                 SZYMOOL
                 <span className="text-xs bg-red-500/20 text-red-500 px-2 py-1 rounded">OFFLINE</span>
               </h1>
-              <p className="text-gray-400 text-sm">Business enquiries: kontakt@szymool.pl</p>
+              <p className="text-gray-400 text-sm">Business enquiries: myxr9n@gmail.com</p>
             </div>
           </div>
 
